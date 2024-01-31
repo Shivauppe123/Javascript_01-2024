@@ -1,0 +1,14 @@
+Extracting String Characters
+
+There are 4 methods for extracting string characters:
+
+1.The at(position) Method
+2.The charAt(position) Method
+3.The charCodeAt(position) Method
+4.Using property access [] like in arrays
+
+
+JavaScript String charCodeAt()
+The charCodeAt() method returns the code of the character at a specified index in a string:
+
+The method returns a UTF-16 code (an integer between 0 and 65535).
